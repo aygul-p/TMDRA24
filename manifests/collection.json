@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://aygul-p.github.io/TMDRA24/manifests/manifestNature.json",
     "label" : "TMDRA2024"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://aygul-p.github.io/TMDRA24/manifests/manifest1.json",
+    "label" : "TMDRA2024"
   } ]
 }
