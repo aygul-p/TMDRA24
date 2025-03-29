@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://aygul-p.github.io/TMDRA24/manifests/manifest.json",
     "label" : "TMDRA2024"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://aygul-p.github.io/TMDRA24/manifests/my_manifest1.json",
+    "label" : "TMDRA2024"
   } ]
 }
