@@ -37,5 +37,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://aygul-p.github.io/TMDRA24/manifests/Diamond.json",
     "label" : "Canvas 4"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://aygul-p.github.io/TMDRA24/manifests/Typewriter.json",
+    "label" : "Canvas 5"
   } ]
 }
