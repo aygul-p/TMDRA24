@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://aygul-p.github.io/TMDRA24/manifests/my_manifest1.json",
     "label" : "TMDRA2024"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://aygul-p.github.io/TMDRA24/manifests/notebook.json",
+    "label" : "Canvas 2"
   } ]
 }
