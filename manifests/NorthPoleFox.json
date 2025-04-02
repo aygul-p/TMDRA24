@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://aygul-p.github.io/TMDRA24/manifests/NorthPoleFox.json",
+  "@type" : "sc:Manifest",
+  "label" : "Canvas 3",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "North Pole Fox",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://b7883f23-6c14-4592-a703-94471668bfd6",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://256388ac-2e1e-466c-9fd4-bdd020a4601f",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 960,
+      "width" : 640,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5d10673f-33ae-4f26-afdf-cb843468304b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://aygul-p.github.io/TMDRA24/images/PoleFox/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://aygul-p.github.io/TMDRA24/images/PoleFox",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 960,
+          "width" : 640
+        },
+        "on" : "http://256388ac-2e1e-466c-9fd4-bdd020a4601f"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
