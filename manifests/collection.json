@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://aygul-p.github.io/TMDRA24/manifests/notebook.json",
     "label" : "Canvas 2"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://aygul-p.github.io/TMDRA24/manifests/NorthPoleFox.json",
+    "label" : "Canvas 3"
   } ]
 }
